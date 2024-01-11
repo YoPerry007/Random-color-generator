@@ -1,6 +1,6 @@
 let btn = document.querySelector(".btn");
 let colorName = document.querySelector(".color-name");
-let body = document.querySelector(".body")
+let body = document.querySelector(".body");
 
 
 function colors(){
